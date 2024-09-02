@@ -1,6 +1,5 @@
 import { personalData } from "@/utils/data/personal-data";
 import Image from "next/image";
-import { CanvasRevealEffectDemo } from "../../card-reaveal";
 
 
 function AboutSection() {
@@ -32,7 +31,7 @@ function AboutSection() {
         </div>
       </div>
 
-      <CanvasRevealEffectDemo />
+      {/* <CanvasRevealEffectDemo /> */}
     </div>
   );
 };
