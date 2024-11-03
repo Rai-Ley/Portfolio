@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Railey Murillo",
   profile: '/profile.png',
-  designation: "Software Quality Assurance",
-  description: "My name is Railey Murillo. I am a dedicated and enthusiastic software quality assurance specialist. I quickly grasp new tools and techniques with a self-driven attitude. I enjoy exploring various testing methodologies and am passionate about enhancing software quality. I am experienced in developing test plans and identifying issues to ensure application reliability. My core skills include rigorous testing and problem-solving to maintain high standards. I am open to job opportunities that align with my expertise and interests in quality assurance.",
+  designation: "Quality Assurance/Technical Support",
+  description: "Hi, I’m Railey Murillo. I specialize in software quality assurance and technical support, and I’m passionate about making sure things work smoothly and reliably. I enjoy learning new tools and testing methods, always aiming to improve software quality and the overall user experience. I’ve worked on developing test plans, identifying and solving issues, and supporting teams to ensure everything runs efficiently. I’m excited to explore new opportunities where I can put my skills in QA and tech support to good use.",
   email: 'murillorailey@gmail.com',
   phone: '09067295315',
   address: 'Mabini Extension, Cabanatuan City, Nueva Ecija',
@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: '#',
   leetcode: "#",
   devUsername: "#",
-  resume: "#"
+  resume: "https://drive.google.com/file/d/1w-yYdFy39sYKqmSry_KM0mwaC5raHjrz/view?usp=sharing"
 }
